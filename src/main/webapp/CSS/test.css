@@ -1,0 +1,125 @@
+body,
+html {
+	background-color: #1f2029;
+	background: radial-gradient(ellipse at bottom, #1B2735 0%, #12141d 100%);
+	height: 100%;
+}
+
+.center {
+	text-align: center;
+}
+
+.nav-link,
+.nav-item {
+	color: #ffeba7 !important;
+}
+
+.text-color {
+	color: #ffeba7;
+}
+
+#id_shoes{
+	max-height: 1px;
+	visibility: hidden;
+}
+
+#nowrap {
+	white-space: nowrap;
+	margin-left: 8px;
+}
+
+#img-shoes {
+	height: 450px;
+}
+#add-shoes{
+	display: none;
+}
+
+#img-slider {
+	height: 600px;
+}
+
+.carousel-control-next,
+.carousel-control-prev {
+	z-index: 0;
+}
+
+#container {
+	margin: 4rem 30px 0 30px;
+}
+
+.list-group {
+	--bs-list-group-bg: none;
+	--bs-list-group-color: #ffeba7;
+	position: fixed;
+	z-index: 2;
+	left: 1;
+}
+
+.list-group-item-action:focus,
+.list-group-item-action:hover {
+	color: #000;
+	background-color: #ffeba7;
+}
+
+.container-fluid {
+	position: fixed;
+	top: 0;
+	z-index: 1;
+	background-color: #1f2029;
+	background: radial-gradient(ellipse at bottom, #1B2735 0%, #12141d 100%);
+}
+
+.list-group-item {
+	padding-right: 40px;
+}
+
+.dropdown-item {
+	color: #ffeba7;
+	background-color: #1f2029;
+}
+
+.dropdown-item:focus,
+.dropdown-item:hover {
+	color: #1f2029;
+	background-color: #ffeba7;
+}
+
+.dropdown-menu {
+	--bs-dropdown-bg: #1f2029;
+	display: none;
+}
+
+ul.dropdown {
+	min-width: 100%;
+	background-color: #1f2029;
+	background: radial-gradient(ellipse at bottom, #1B2735 0%, #12141d 100%);
+	display: none;
+	position: relative;
+	z-index: 1;
+	left: 0;
+}
+
+ul.dropdown a {
+	color: #ffeba7;
+	text-decoration: none;
+	padding-left: 10px;
+	margin-top: 5px;
+}
+
+li:hover ul.dropdown {
+	display: block;
+}
+
+
+ul.dropdown li:hover a,
+ul.dropdown li:hover {
+	color: #1f2029;
+	background-color: #ffeba7;
+}
+
+.btn-warning {
+	--bs-btn-color: #ffc107;
+	--bs-btn-bg: none;
+}
+

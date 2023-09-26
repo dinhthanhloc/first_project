@@ -1,0 +1,108 @@
+INSERT INTO san_pham (ma_giay, ten_giay, gia_goc, gia_ban, so_luong, hang_giay, kieu_dang,link_hinh_anh) VALUE ("AF157", "Nike Air Force 1 Mid LE", "80","100",'50',"nike","Sneaker",'https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/6e33b686-8582-4502-b4ae-9d510c4d225c/air-force-1-mid-le-big-kids-shoes-W0dKGw.png');
+INSERT INTO san_pham (ma_giay, ten_giay, gia_goc, gia_ban, so_luong, hang_giay, kieu_dang,link_hinh_anh) VALUE ("AF158", "Nike Air Force 1 Mid LE", "80","100",'50',"nike","Sneaker",'https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/f1026a24-d24b-4790-b811-fb0245526460/air-force-1-mid-le-big-kids-shoes-W0dKGw.png');
+INSERT INTO san_pham (ma_giay, ten_giay, gia_goc, gia_ban, so_luong, hang_giay, kieu_dang,link_hinh_anh) VALUE ("AF159", "Nike Air Force 1 Mid LE", "80","100",'50',"nike","Sneaker",'https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/752c3465-71e6-4244-935b-8601a982448d/air-force-1-mid-le-big-kids-shoes-W0dKGw.png');
+INSERT INTO san_pham (ma_giay, ten_giay, gia_goc, gia_ban, so_luong, hang_giay, kieu_dang,link_hinh_anh) VALUE ("AF160", "Nike Air Force 1 Mid LE", "80","100",'50',"nike","Sneaker",'https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/b6565cce-5237-4e85-9afa-464269cde9b1/air-force-1-mid-le-big-kids-shoes-W0dKGw.png');
+INSERT INTO san_pham (ma_giay, ten_giay, gia_goc, gia_ban, so_luong, hang_giay, kieu_dang,link_hinh_anh) VALUE ("AF161", "Nike Air Force 1 React", "100","140",'50',"nike","Sneaker",'https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/53a1614a-a5fd-4bfe-977e-6921451ed50e/air-force-1-react-mens-shoes-WSjfs8.png');
+INSERT INTO san_pham (ma_giay, ten_giay, gia_goc, gia_ban, so_luong, hang_giay, kieu_dang,link_hinh_anh) VALUE ("AF162", "Nike Air Force 1 React", "100","140",'50',"nike","Sneaker",'https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/dfc011de-9e02-4c22-b503-8498a0451d4c/air-force-1-react-mens-shoes-WSjfs8.png');
+INSERT INTO san_pham (ma_giay, ten_giay, gia_goc, gia_ban, so_luong, hang_giay, kieu_dang,link_hinh_anh) VALUE ("AF163", "Nike Air Force 1 React", "100","140",'50',"nike","Sneaker",'https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/f33b8d7c-e5d8-4bc0-bc15-800c0054db03/air-force-1-react-mens-shoes-WSjfs8.png');
+INSERT INTO san_pham (ma_giay, ten_giay, gia_goc, gia_ban, so_luong, hang_giay, kieu_dang,link_hinh_anh) VALUE ("AF164", "Nike Air Force 1 React", "100","140",'50',"nike","Sneaker",'https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/4f5236a1-d1d4-4daa-bfee-38264a111c69/air-force-1-react-mens-shoes-WSjfs8.png');
+INSERT INTO san_pham (ma_giay, ten_giay, gia_goc, gia_ban, so_luong, hang_giay, kieu_dang,link_hinh_anh) VALUE ("AF165", "Nike Air Force 1 React", "100","140",'50',"nike","Sneaker",'https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/44babd53-5eb9-43b8-84db-2383efb2a3fd/air-force-1-react-mens-shoe-WSjfs8.png');
+INSERT INTO san_pham (ma_giay, ten_giay, gia_goc, gia_ban, so_luong, hang_giay, kieu_dang,link_hinh_anh) VALUE ("AF166", "Nike Air Force 1 Mid '07 LX NBHD", "100","140",'50',"nike","Sneaker",'https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/c7fc0674-73ef-4b5e-8d6a-4a3009e1e4a2/air-force-1-mid-07-lx-nbhd-mens-shoes-CvfbLv.png');
+INSERT INTO san_pham (ma_giay, ten_giay, gia_goc, gia_ban, so_luong, hang_giay, kieu_dang,link_hinh_anh) VALUE ("AF167", "Nike Air Force 1 Mid By You", "100","140",'50',"nike","Sneaker",'https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/e9d41cd4-a2c5-4ca7-a3aa-f4bf597658d0/custom-nike-air-force-1-mid-by-you-shoes.png');
+
+
+
+
+INSERT INTO chi_tiet_san_pham(ma_giay,tong_quan, tong_quan_1, tong_quan_2,de_giay)
+VALUE ('AF144','','','','');
+
+INSERT INTO san_pham (ma_giay, ten_giay, gia_goc, gia_ban, so_luong, hang_giay, kieu_dang,link_hinh_anh)
+VALUE ('BLS1', "BALENCIAGA TRACK SOCK SNEAKER", "170","220",'50',"Balenciaga","Sneaker",
+'https://balenciaga.dam.kering.com/m/38ca232592f6f50d/Medium-736330W3SKC9040_F.jpg?v=1');
+INSERT INTO chi_tiet_san_pham(ma_giay,tong_quan, tong_quan_1, tong_quan_2,de_giay)
+VALUE ('BLS1','https://balenciaga.dam.kering.com/m/38ca232592f6f50d/Medium-736330W3SKC9040_F.jpg?v=1','https://balenciaga.dam.kering.com/m/182911f5214e904/Medium-736330W3SKC9040_J.jpg?v=1','https://balenciaga.dam.kering.com/m/6efe7f3215605c5/Medium-736330W3SKC9040_D.jpg?v=1','https://balenciaga.dam.kering.com/m/445e29ac9545f29/Medium-736330W3SKC9040_A.jpg?v=1');
+
+
+<div class="col-lg-4 col-md-6 mb-4">
+						<div class="card h-100">
+							<a href="#"><img class="card-img-top" src="img/product/2.png"
+								alt=""></a>
+							<div class="card-body">
+								<h4 class="card-title">
+									<a href="#">Áo thun Pro-S1</a>
+								</h4>
+								<h5>50.000</h5>
+								<p class="card-text">Sản phẩm thoáng mát, có độ bền tốt, giữ
+									màu sắc tốt.</p>
+							</div>
+							<div class="card-footer">
+								<small class="text-muted">&#9733; &#9733; &#9733;
+									&#9733; &#9734;</small>
+							</div>
+						</div>
+					</div>
+					
+					
+		
+			<!-- Profile -->
+			<div class="row mt-5">
+				<div class="col-12">
+					<h2 class="center">Profile</h2>
+				</div>
+				<!-- username -->
+				<div class="col-6 mt-3">
+					<label for="username">Họ và tên<span class="error">*</span></label>
+					<input type="text" class="form-control" id="username"
+						name="username" placeholder="Full name"
+						value="<%=value_username%>" required="required">
+
+					<div class="error" id="errorUsername"></div>
+				</div>
+
+				<!-- Gioi tinh -->
+				<div class="col-6 mt-3">
+					<label for="gioitinh" class="form-label" style="margin: 0">Giới
+						tính</label> <select class="form-control" name="gioi_tinh" id="gioi_tinh">
+						<option></option>
+						<option value="Nam"
+							<%=(gioi_tinh.equals("Nam")) ? "selected='selected'" : ""%>>Nam</option>
+						<option value="Nữ"
+							<%=(gioi_tinh.equals("Nữ")) ? "selected='selected'" : ""%>>Nữ</option>
+						<option value="Khác"
+							<%=(gioi_tinh.equals("Khác")) ? "selected='selected'" : ""%>>Khác</option>
+					</select>
+				</div>
+
+				<!-- Địa chỉ -->
+				<div class="col-6 mt-3">
+					<label for="dia_chi">Địa chỉ</label> <input type="text"
+						class="form-control" id="dia_chi" name="dia_chi"
+						placeholder="Address" value="<%=value_dia_chi%>">
+				</div>
+
+				<!-- dob -->
+				<div class="col-6 mt-3">
+					<label for="dob">Ngày sinh</label> <input type="date"
+						class="form-control" id="dob" name="dob"
+						placeholder="Date of birth" value="<%=dob%>">
+				</div>
+
+				<!-- Số điện thoại -->
+				<div class="col-6 mt-3">
+					<label for="so_dien_thoai">Số điện thoại</label> <input type="text"
+						class="form-control" id="so_dien_thoai" name="so_dien_thoai"
+						placeholder="Phone number" value="<%=value_so_dien_thoai%>"
+						autocomplete="off">
+
+					<div class="error"><%=errorSdt%></div>
+				</div>
+				<!-- Đăng kí -->
+				<div class="col-6 mt-4">
+					<input type="checkbox" class="form-check-input" name="dang_ki"
+						id="dang_ki"> Đồng ý nhận tin nhắn qua Email <br> <input
+						type="checkbox" class="form-check-input" name="dong_y" id="dong_y"
+						required="required"><span class="error">*</span>Tôi đã
+					đọc, hiểu rõ và đồng ý với Quy chế hoạt động, điều khoản và Chính
+					sách bảo mật thông tin.
+				</div>
+			</div>

@@ -1,0 +1,103 @@
+/* img detail shoes*/
+#img-detail{
+	display: block;
+}
+
+.img-detail-shoes{
+	height: 100px;
+	width: 100px;
+	margin: 0 0 10px 0;
+	border-radius: 8px;	
+	background-color: none;
+}
+ul#img-detail li button.button-img-detail{
+	height: 100px;
+	width: 100px;
+	
+}
+
+
+ul#img-detail li{
+	height: 100px;
+	width: 100px;
+	margin-bottom: 10px;
+}
+
+il#img-detail {
+	font-size: 430px 100px;
+}
+
+/*img main shoes*/
+#img-main-shoes{
+	height: 430px;
+	width: 430px;
+}
+
+
+/* Thông tin shoes */
+.infor-shoes{
+	color: #ffeba7;
+}
+
+
+/* Giá giày */
+.price-shoes{
+	color: #942319;
+}
+
+/* Size giày */
+.item-radio label{
+	color: #ffeba7;
+}
+
+/* Số lượng*/
+.amount-shoes{
+	display: flex;
+}
+
+.amount-shoes #icon-size{
+	font-size: 15px;
+}
+
+.amount-shoes button{
+	height: 25px;
+	width: 25px;
+	padding: 0;
+}
+
+.amount-shoes ul{
+	display: block;
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+.amount-shoes #amount{
+	width: 50px;
+	height: 50px;
+	text-align: center;
+}
+
+.buy{
+	width: auto;
+	display: flex;
+	
+}
+.buy #buy-item{
+	margin-left: 15px;
+	color: #1f2029;
+	background-color: #ffeba7;
+}
+.buy #add-item{
+	color: #1f2029;
+	background-color: #ffeba7;
+}
+.buy #buy-item:hover{
+	color: #ffeba7;
+	background-color: #1f2029;
+}
+.buy #add-item:hover{
+	color: #ffeba7;
+	background-color: #1f2029;
+}
+

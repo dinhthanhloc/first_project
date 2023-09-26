@@ -1,0 +1,33 @@
+.infor-page{
+	color: #ffeba7;
+}
+
+/* Logo img */
+.img-logo img{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	height: 200px;
+	width: 200px;
+}
+/* Phương thức vận chuyển*/
+.border-color{
+	border-color: #ffeba7;
+}
+
+.transport-order ul li{
+	list-style: none;
+
+}
+
+.flex{
+	display: flex;
+}
+
+.ml-2{
+	margin-left: 10px;
+}
+
+.form-transport{
+	width: 295px;
+}

@@ -1,0 +1,39 @@
+body,
+html {
+	color: #ffeba7;
+	background-color: #1f2029;
+	background: radial-gradient(ellipse at bottom, #1B2735 0%, #12141d 100%);
+	height: 100%;
+}
+
+
+.error {
+	color: red;
+}
+
+.center {
+	text-align: center;
+}
+
+.form-signin {
+	max-width: 400px;
+}
+
+#title {
+	margin-top: 50px;
+}
+
+.form {
+	max-width: 900px;
+}
+
+.center-div {
+	margin: 0 auto;
+}
+
+#link-color {
+	color: #ffeba7;
+}
+#text-right{
+	text-align: right;
+}
